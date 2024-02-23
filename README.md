@@ -5,7 +5,7 @@ act as a multidimensional map to measure similarity.
 Let me describe a 2D graph. The words 'dog' and 'puppy' are used in similar situations. So, in a word embedding they would be represented by vectors that are close together. In reality the vector in hand has
 hundreds of dimensions that cover the rich multidimensional relationships between words.
 
-![example](/dog-puppy.png)
+![example](/dog-puppy.png) 
 
 Images can also be turned to vectors. That's how Google does similar image searches. How ? The image sections are broken down into arrays allowing you to find patterns of similarity for those with closely 
 resembling vectors.
