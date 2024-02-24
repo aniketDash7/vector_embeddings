@@ -17,3 +17,7 @@ Uses of a vector database :
 - clustering : where text strings are grouped by similarity
 - recommendations : where items with related text strings are recommended.
 - classifications : where text strings are classified by their most similar label.
+
+
+The strength of embeddings is where you chunk large bits of information together such as paragraphs. 
+The model 'ada-002' allows for maximum input of 8000 tokens.
